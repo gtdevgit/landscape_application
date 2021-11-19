@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mylandscapeapplication.MainActivity">
+    <item
+        android:id="@+id/menu_item_home"
+        android:orderInCategory="100"
+        android:title="@string/list"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_item_detail"
+        android:orderInCategory="100"
+        android:title="@string/detail"
+        android:icon="@drawable/ic_detail"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_item_edit"
+        android:orderInCategory="100"
+        android:title="@string/edit"
+        android:icon="@drawable/ic_edit"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_item_add"
+        android:orderInCategory="100"
+        android:title="@string/add"
+        android:icon="@drawable/ic_add"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_item_map"
+        android:orderInCategory="100"
+        android:title="@string/map"
+        android:icon="@drawable/ic_map"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_item_search"
+        android:orderInCategory="100"
+        android:title="@string/search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom" />
+
+</menu>
