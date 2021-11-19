@@ -18,9 +18,13 @@ Project developed with __java__ and __Android Studio__.
 ![portrait 6](/assets/images/P6.png)
 
 ![landscape 1](/assets/images/L1.png)
+
 ![landscape 2](/assets/images/L2.png)
+
 ![landscape 3](/assets/images/L3.png)
+
 ![landscape 4](/assets/images/L4.png)
+
 ![landscape 5](/assets/images/L5.png)
 
 
