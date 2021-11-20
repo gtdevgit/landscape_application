@@ -10,6 +10,20 @@ Project developed with __java__ and __Android Studio__.
 - Fragments
 - MVVM
 
+# Layout
+
+1. Portrait
+
+![portrait layout](/assets/images/layout_portrait.png)
+
+2. Landscape
+
+![landscape layout](/assets/images/layout_landscape.png)
+
+# Sequence
+
+![Sequence diagram ](/assets/images/sequence_diagram.png)
+
 # pictures
  - Orientation portrait
 1. List
